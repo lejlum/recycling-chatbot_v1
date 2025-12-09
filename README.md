@@ -87,9 +87,9 @@ python setup_opensource_chatbot.py
 *Recommended Model:* `qwen2.5:7b-instruct`
 
 ### 3. Run the Application
-You can run the project in two modes:
+How you can the project:
 
-**Option A: Web Dashboard (Recommended)**
+**Web Dashboard**
 A Bootstrap-based UI with image upload and chat history.
 ```bash
 python FINAL_DASHBOARD.py
