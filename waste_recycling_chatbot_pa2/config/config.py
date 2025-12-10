@@ -21,7 +21,7 @@ ARCHIVE_ROOT = PROJECT_ROOT.parent / "_archive_original"  # Eine Ebene höher
 REALWASTE_ORIGINAL = ARCHIVE_ROOT / "realwaste-main" / "RealWaste"
 ECOVISION_ORIGINAL = ARCHIVE_ROOT / "ecovision_mobilenetv3"
 
-# Data (liegt eine Ebene höher)
+# Data
 DATA_ROOT = PROJECT_ROOT.parent / "data"
 RAW_DATA = DATA_ROOT / "raw"
 PROCESSED_DATA = DATA_ROOT / "processed" / "organized_dataset"
