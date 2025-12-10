@@ -20,7 +20,7 @@ This system automates waste sorting assistance by recognizing waste types from i
 ## Dataset
 
 ### Source & Distribution
-The project utilizes Helene Benkert's waste image dataset comprising 5,795 labeled photographs, compiled from a combination of own-work photography and available labeled sources. The dataset was divided into training, validation, and test subsets through stratified random splitting to maintain the marginal class distribution from the original  dataset in each split, avoiding situations in which rare categories fall disproportionately into one subset.
+This project focuses on 16 categories derived from the waste image dataset (5,795 labeled photographs) created by Helene Benkert as part of her master's thesis - Don’t Waste Compute – Efficient AI Models for Waste Management. The dataset was divided into training, validation, and test subsets through stratified random splitting to maintain the marginal class distribution from the original  dataset in each split, avoiding situations in which rare categories fall disproportionately into one subset.
 
 * **Total Images:** 5,795
 * **Train:** 4,056 images (70%)
